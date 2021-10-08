@@ -30,7 +30,7 @@ Our project will also feature a COVID-19 app that will allow clients to view the
 
 •	Users will need to have an account to access the game and the other features it provides.
 
-•       when you win, the screen will shows you win image.
+•       when you win, the screen will shows you win image, when you lose it will show lose image.
 
 •	New users can register for an account by creating a username and providing additional information.
 

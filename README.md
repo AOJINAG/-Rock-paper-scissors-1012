@@ -6,7 +6,7 @@
 
 Project Members:
 
-o	Ao Jiang, Section B Lab 02, ja2020@my.yorku.ca
+o	Ao Jiang, Section B Lab 02, ja2020@my.yorku.ca or ykja2020@gmail.com
 
 o	Omar Shaikh, Section B Lab 02, omars214@my.yorku.ca
 

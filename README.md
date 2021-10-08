@@ -42,9 +42,9 @@ Our project will also feature a COVID-19 app that will allow clients to view the
 
 •	The website will be operatable on all major Web Browsers such as Google Chrome, Firefox, Safari, Microsoft Edge, and Opera.
 
-•	To start a new game, users will have to click on the “New Game” button.
+•	To start a new game, users will have to click on the “New Game” button, if they want to continue the game, they need to click to start again              button 
 
-•	Users will be able to view the number of games they’ve played, the wins/losses in those games since their log in，If users do not register for           an account, they can view but not record
+•	Users will be able to view the number of games they’ve played, the wins/losses in those games since their log in，If users do not register for            an account, they can view but not record
 
 
 

@@ -46,6 +46,8 @@ Our project will also feature a COVID-19 app that will allow clients to view the
 
 •	To start a new game, users will have to click on the “New Game” button.
 
-•	Users will be able to view the number of games they’ve played, the wins/losses in those games since their log in.
+•	Users will be able to view the number of games they’ve played, the wins/losses in those games since their log in，If users do not register for           an account, they can view but not record
+
+
 
 

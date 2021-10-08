@@ -36,7 +36,7 @@ Our project will also feature a COVID-19 app that will allow clients to view the
 
 •	When registering, users should know that the username they provide must be between 6 and 30 characters.
 
-•	Additional information such as email address and mobile no. will also be optional.
+•	Additional information such as email address and mobile no. will be optional.
 
 •	Existing users can directly log in with their credentials and proceed to play the game.
 

@@ -42,7 +42,7 @@ Our project will also feature a COVID-19 app that will allow clients to view the
 
 •	To start a new game, users will have to click on the *“New Game”* button. If they want to restart the game, they need to click on the *"Restart"*                  button.
 
-•       When a user wins, the screen will show you a *Winner* image, and when a user loses it will show a *Loser* image.
+•       When a user wins, the screen will show you a ***Winner*** image, and when a user loses it will show a ***Loser*** image.
 
 •	Users will be able to view the number of games they’ve played, the wins/losses in those games since their log in.
 

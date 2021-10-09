@@ -6,7 +6,7 @@
 
 Project Members:
 
-o	Ao Jiang, Section B Lab 02, ja2020@my.yorku.ca or ykja2020@gmail.com
+o	Ao Jiang, Section B Lab 02, ja2020@my.yorku.ca
 
 o	Omar Shaikh, Section B Lab 02, omars214@my.yorku.ca
 
@@ -30,11 +30,7 @@ Our project will also feature a COVID-19 app that will allow clients to view the
 
 •	Users will need to have an account to access the game and the other features it provides.
 
-•       when you win, the screen will shows you win image, when you lose it will show lose image.
-
-•	New users can register for an account by creating a username and providing additional information.
-
-•	When registering, users should know that the username they provide must be between 6 and 30 characters.
+•	New users can register for an account by creating a username and providing additional information. When registering, users should know that the username they provide must be between 6 and 30 characters.
 
 •	Additional information such as email address and mobile no. will be optional.
 
@@ -44,9 +40,11 @@ Our project will also feature a COVID-19 app that will allow clients to view the
 
 •	The website will be operatable on all major Web Browsers such as Google Chrome, Firefox, Safari, Microsoft Edge, and Opera.
 
-•	To start a new game, users will have to click on the “New Game” button, if they want to restart the game, they need to click to restart                  button 
+•	To start a new game, users will have to click on the *“New Game”* button. If they want to restart the game, they need to click on the *"Restart"*                  button.
 
-•	Users will be able to view the number of games they’ve played, the wins/losses in those games since their log in，If users do not register for            an account, they can view but not record
+•       When a user wins, the screen will show you a *Winner* image, and when a user loses it will show a *Loser* image.
+
+•	Users will be able to view the number of games they’ve played, the wins/losses in those games since their log in.
 
 
 

@@ -48,4 +48,6 @@ Our project will also feature a COVID-19 app that will allow clients to view the
 
 
 
+## Wireframes
 
+The wireframes are listed in the file 2_GameHunters.docx

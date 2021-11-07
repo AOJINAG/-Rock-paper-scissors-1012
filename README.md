@@ -38,7 +38,7 @@ Our project will also feature a COVID-19 app that will allow clients to view the
 
 •	Error messages will appear if a field entry is left blank or if inadequate information is stated.
 
-•	The website will be operatable on all major Web Browsers such as Google Chrome, Firefox, Safari, Microsoft Edge, and Opera.
+•	The website will be operable on all major Web Browsers such as Google Chrome, Firefox, Safari, Microsoft Edge, and Opera.
 
 •	To start a new game, users will have to click on the *“New Game”* button. If they want to restart the game, they need to click on the *"Restart"*                  button.
 

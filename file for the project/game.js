@@ -3,7 +3,7 @@ var win = loss = draw = 0;
 
 init(50, "mylegend", 900, 500, load);
 var imgList = {};
-//add images their 
+//add images there 
 var imgData = new Array(
     { name: "rock", path: "image/images/rock.jpg" },
     { name: "scissors", path: "image/images/scissors.jpg" },

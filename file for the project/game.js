@@ -59,7 +59,7 @@ function gameinit() {
     var lgraphics = new LGraphics();
     lgraphics.drawLine(3, "#7F93C7", [500, 150, 500, 350]);
     addChild(lgraphics);
-    //Player
+    //Player 
     selfBitmap = new LBitmap(showList[0]);
     selfBitmap.x = 280;
     selfBitmap.y = 200;

@@ -1,0 +1,33 @@
+header{
+    text-align: left;
+    font-family: 'Copperplate', sans-serif;
+    font-size: 50px;
+    color: white;
+}
+body{
+    background-image: url("rock-paper-scissors.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+div{
+    width: 1500px;
+    height: 500px;
+    margin-left: 5%;
+    border: none;
+    background-color: white;
+}
+
+div p{
+    font-family: 'Copperplate', sans-serif;
+    text-align: left;
+}
+
+button{
+    background-color: #93db34;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}

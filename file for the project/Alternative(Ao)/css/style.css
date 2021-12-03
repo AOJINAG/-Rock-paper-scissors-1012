@@ -53,9 +53,13 @@ header{
   width: 250px;
   font-size: 60px;
   padding: 30px 10px;
-  position: relative
+  position: relative;
+  text-shadow:  0 0 15px currentColor;
+  box-shadow:  0 0 15px currentColor;
+  border-radius: 25px;
+  display: block;
 }
-
+ 
 .badge{
   /*ZIMA Blue*/
   background:#16B8F3;

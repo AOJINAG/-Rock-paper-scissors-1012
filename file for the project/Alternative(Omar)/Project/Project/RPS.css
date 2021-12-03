@@ -1,0 +1,39 @@
+body{
+    background-image: url("rock-paper-scissors.jpg");
+    background-size:100%;
+}
+
+.main {
+    border-top: 10px;
+
+}
+.main{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  display: inline-block;
+}
+
+div button {
+    font-size: 34px;
+    font-family: 'Copperplate', sans-serif;
+    color: white;
+    border-radius: 12px;
+    display: inline-block;
+    background-color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+h1, header{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Copperplate', sans-serif;
+    font-size: 50px;
+}

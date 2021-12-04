@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Rock Paper Scissors</title>
+
+    <!-- Link Stylesheet -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <!-- Main Container -->
+    <div id="container">
+
+
+        <!-- Smaller contianer to center the game -->
+        <div id="game-container">
+
+            <!-- Title -->
+            <div id="title-container">
+                <h1>Rock Paper Scissors Game</h1>
+            </div>
+
+            <!-- Intro Prompt -->
+            <button id="start-button">Start Game</button>
+
+            <!-- Score Chart -->
+            <div id="scores-container">
+                <div class="score">
+                    <h2>Round</h2>
+                    <p id="round">0</p>
+                </div>
+                <div class="score">
+                    <h2>Player Score</h2>
+                    <p id="player-score">0</p>
+                </div>
+                <div class="score">
+                    <h2>Computer Score</h2>
+                    <p id="computer-score">0</p>
+                </div>
+                <div class="score">
+                    <h2>Ties</h2>
+                    <p id="ties">0</p>
+                </div>
+            </div>
+
+            <!-- Radio Button Container used to get user input -->
+            <div id="buttons-container">
+
+                <div>
+                    <h2>Choose your move</h2>
+                </div>
+
+                <div id="rpsbuttons">
+                    <!-- Rock -->
+                    <button class="button" type="rpsbutton" id="rock">
+                    <img src="https://raw.githubusercontent.com/AOJINAG/-Rock-paper-scissors-1012/main/images/rock.png" alt="Rock">
+                </button>
+
+                    <!-- Paper -->
+                    <button class="button" type="rpsbutton" id="paper">
+                    <img src="https://raw.githubusercontent.com/AOJINAG/-Rock-paper-scissors-1012/main/images/paper.png" alt="Paper">
+                </button>
+
+                    <!-- Scissors -->
+                    <button class="button" type="rpsbutton" id="scissors">
+                    <img src="https://raw.githubusercontent.com/AOJINAG/-Rock-paper-scissors-1012/main/images/scissors.png" alt="Scissors">
+                </button>
+                </div>
+            </div>
+
+            <!-- Player vs Computer Container -->
+            <div id="pvsc-container">
+                <div id="player-move">
+                    <h2>Player</h2>
+                    <img class="match-img" id="player-img" src="https://raw.githubusercontent.com/AOJINAG/-Rock-paper-scissors-1012/main/images/rock.png" alt="Rock">
+                </div>
+                <div id="computer-move">
+                    <h2>Computer</h2>
+                    <img class="match-img" id="comp-img" src="https://raw.githubusercontent.com/AOJINAG/-Rock-paper-scissors-1012/main/images/rock.png" alt="Rock">
+                </div>
+            </div>
+
+            <!-- Play Again Container -->
+            <div id="play-again-contianer">
+                <button id="play-again-btn">Play Again?</button>
+            </div>
+
+            <!-- End of Game Container -->
+        </div>
+
+        <!-- End of Main Container -->
+    </div>
+
+    <script src="./js/rps.js"></script>
+</body>
+
+</html>

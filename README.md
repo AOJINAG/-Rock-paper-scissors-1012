@@ -18,7 +18,7 @@ o	Omar Shaikh, Section B Lab 02, omars214@my.yorku.ca
 
 Our project is going to be an animated version of Rock-paper-scissors. Users will be able to select the symbol they would like to put forward against the server after the duration of an automated voice that will shout out the words “Rock! Paper! Scissors!”. Users will have the ability to select a background theme, from a given list of themes, for the game that suits them best and will also be pronounced Winner or Loser at the end of five games.
 
-Our project will also feature a COVID-19 app that will allow clients to view the number of real-time local coronavirus cases and deaths, vaccinated people, doses administered per 100 people, based on location, and illustrate the same using graphs and charts.
+Our project will also feature a COVID-19 app that will allow clients to view the number of real-time local coronavirus cases and deaths, vaccinated people, based on location, and illustrate the same using graphs and charts.
 
 
 
